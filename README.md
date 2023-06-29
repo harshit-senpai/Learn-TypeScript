@@ -75,3 +75,4 @@ To set up this repository locally, follow these steps:
  - TypeScript community website: [TypeScriptlang.org](https://www.typescriptlang.org/)
  - Free Online TypeScript courses: [ Learn TypeScript – Full Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50&t=18s)
 
+# Happy coding 🎉
