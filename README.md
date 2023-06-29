@@ -53,17 +53,23 @@ To set up this repository locally, follow these steps:
  1. Clone the repository using the following command:
  
 
+    ```
     git clone https://github.com/your-username/typescript-learning.git
+    ```
 
  2. Navigate to the repository's directory:
  
 
+    ```
     cd typescript-learning
+    ```
 
  3. Install the dependencies:
  
 
+    ```
     npm install
+    ```
 
  4. Start exploring the content by diving into each topic folder and reviewing the code examples.
 
